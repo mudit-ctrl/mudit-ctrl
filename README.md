@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mudit Sethia</h1>
 <h3 align="center">a student</h3>
 
-- 🌱 I’m currently learning **database and algorithm**
+- 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 💬 Ask me about **flutter, dart and firebase**
 
